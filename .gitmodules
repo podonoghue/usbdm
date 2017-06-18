@@ -1,0 +1,21 @@
+[submodule "usbdm-eclipse-makefiles-build"]
+	path = usbdm-eclipse-makefiles-build
+	url = ../usbdm-eclipse-makefiles-build.git
+[submodule "usbdm-firmware"]
+	path = usbdm-firmware
+	url = ../usbdm-firmware.git
+[submodule "usbdm-eclipse-plugins"]
+	path = usbdm-eclipse-plugins
+	url = ../usbdm-eclipse-plugins.git
+[submodule "usbdm-flash-routines"]
+	path = usbdm-flash-routines
+	url = ../usbdm-flash-routines.git
+[submodule "usbdm-kinetis"]
+	path = usbdm-kinetis
+	url = ../usbdm-kinetis.git
+[submodule "usbdm-hcs08"]
+	path = usbdm-hcs08
+	url = ../usbdm-hcs08.git
+[submodule "usbdm-legacy-flash-routines"]
+	path = usbdm-legacy-flash-routines
+	url = ../usbdm-legacy-flash-routines.git
